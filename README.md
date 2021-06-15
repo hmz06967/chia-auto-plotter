@@ -5,7 +5,8 @@ açtığınız makineye config dosyasını ayarlayarak başlatın paket yoksa y�
 # Auto
 
 Plotlama yaparken Ctrl-C ile çıkış yapın ilerlemeyi göremek için tail -f $plot_file
-     tail -f plot.log
+    
+    tail -f plot.log
 
 # Config
 
