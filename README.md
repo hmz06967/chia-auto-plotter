@@ -13,7 +13,7 @@ chia madmax - hpool-plotter  auto plotter
     pcount=10
     plot_file="/root/plot.log"
     up_file="/root/upload.log"
-    plotter=1  
+    plotter=1  #1: madmax-chia-plotter, 0: hpool-chia-plotter
 
 
 # Install 
