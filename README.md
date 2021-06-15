@@ -3,7 +3,11 @@ chia madmax - hpool-plotter  auto plotter
 
 # Config
 
-####Bu dosyanın içerisindeki komutları kendinize göre ekleyin. auto=1 komutunu eklerseniz config dosyasını otomatik okur (public keyler haric) eklemezseniz komut ekranında size sorar.
+##Bu dosyanın içerisindeki komutları kendinize göre ekleyin. auto=1 komutunu eklerseniz config dosyasını otomatik okur (public keyler haric) eklemezseniz komut ekranında size sorar.
+
+Bir kez başlatmanız yeterli daha sonrasında pcount kadar kendi yazacaktır bu sırada disk depeolamanızı dikkat edin.
+
+Önerilen: temp kalsörünün bir tanesini ram olarak 101Gib mount ederseniz [madmax plotter=1] 40dk da plot hızına ulaşma imkanı vardır.
 
     Fpk=""  
     Ppk=""
