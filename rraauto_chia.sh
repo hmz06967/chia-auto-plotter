@@ -96,7 +96,7 @@ start_config(){
 start_madmax(){
 	start_config
 	echo "[madmax kazıcı] start"
-	nohup $mplotter -n $pcount -r $cpu -u 7 -t $Temp -2 $Temp -d $Plot -p $Ppk -f $Fpk &> /root/plot.log &
+	nohup $mplotter -n $pcount -r $cpu -u 7 -t $Temp -2 $Temp -d $Plot -p $Ppk -f $Fpk &> $plot_file &
 }
 
 start_hpool(){
