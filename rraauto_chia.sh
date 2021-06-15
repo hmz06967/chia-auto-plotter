@@ -117,6 +117,7 @@ start_plot(){
 			echo "[hpool kazıcı] yükleniyor" 
 			install 
 			hpool_plotter_install
+			start_hpool
 		fi
 	fi
 	if [ $plotter = 1 ]; then #madmax kazıcı 
@@ -126,6 +127,7 @@ start_plot(){
 			echo "[madmax kazıcı] yükleniyor" 
 			install 
 			madmax_plotter_install
+			start_madmax
 		fi
 	fi
 	
