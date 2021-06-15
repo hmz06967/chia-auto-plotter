@@ -13,7 +13,7 @@ if ! [ -f $cfg_fpath ]; then
 	exit
 fi
 
-source "/root/otochia-plotter.cfg" 
+source $cfg_fpath
 Plot="${disk}/plots/"
 Temp="${disk}/tempc/" 
 	
