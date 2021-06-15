@@ -8,9 +8,9 @@ chia madmax - hpool-plotter  auto plotter
     Fpk=""  
     Ppk=""
     cpu=4
-    disk="/disk"
+    disk="/disk" # temp ve plot klasörü ana yolu 
     ram=3995
-    pcount=10
+    pcount=10 # sıralı plot sayısı 
     plot_file="/root/plot.log"
     up_file="/root/upload.log"
     plotter=1  #1: madmax-chia-plotter, 0: hpool-chia-plotter
