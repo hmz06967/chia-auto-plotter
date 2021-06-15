@@ -10,11 +10,11 @@ Bir kez başlatmanız yeterli daha sonrasında pcount kadar kendi yazacaktır bu
 
 Önerilen: temp kalsörünün bir tanesini ram olarak 101Gib mount ederseniz [madmax plotter=1] 40dk da plot hızına ulaşma imkanı vardır.
 
-    Fpk=""  # framing public key
+    Fpk=""  # farming public key
     Ppk="" # pool public key
     cpu=4
-    disk="/disk" # temp ve plot klasörü ana yolu 
     ram=3995
+    disk="/disk" # temp ve plot klasörü ana yolu 
     pcount=10 # sıralı plot sayısı 
     plot_file="/root/plot.log"
     up_file="/root/upload.log"
