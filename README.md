@@ -2,6 +2,11 @@
 chia madmax - hpool-plotter sıfırdan kurulum ve otomatik plotlama yapar.
 açtığınız makineye config dosyasını ayarlayarak başlatın paket yoksa yükler ve devam eder.
 
+# Auto
+
+Plotlama yaparken Ctrl-C ile çıkış yapın ilerlemeyi göremek için tail -f $plot_file
+     tail -f plot.log
+
 # Config
 
 Bu dosyanın içerisindeki komutları kendinize göre ekleyin. auto=1 komutunu eklerseniz config dosyasını otomatik okur  eklemezseniz komut ekranında size sorar (public keyler haric).
