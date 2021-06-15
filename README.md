@@ -3,7 +3,7 @@ chia madmax - hpool-plotter  auto plotter
 
 # Config
 
-####Bu dosyanın içerisindeki komutları kendinize göre ekleyin. auto=1 komutunu eklerseniz config dosyasını otomatik okur eklemezseniz komut ekranında size sorar.
+####Bu dosyanın içerisindeki komutları kendinize göre ekleyin. auto=1 komutunu eklerseniz config dosyasını otomatik okur (public keyler haric) eklemezseniz komut ekranında size sorar.
 
     Fpk=""  
     Ppk=""
