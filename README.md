@@ -1,5 +1,6 @@
 # chia-auto-plotter
-chia madmax - hpool-plotter  auto plotter
+chia madmax - hpool-plotter sıfırdan kurulum ve otomatik plotlama yapar.
+açtığınız makineye config dosyasını ayarlayarak başlatın paket yoksa yükler ve devam eder.
 
 # Config
 
