@@ -4,7 +4,9 @@ açtığınız makineye config dosyasını ayarlayarak başlatın paket yoksa y�
 
 # Config
 
-##Bu dosyanın içerisindeki komutları kendinize göre ekleyin. auto=1 komutunu eklerseniz config dosyasını otomatik okur  eklemezseniz komut ekranında size sorar (public keyler haric).
+Bu dosyanın içerisindeki komutları kendinize göre ekleyin. auto=1 komutunu eklerseniz config dosyasını otomatik okur  eklemezseniz komut ekranında size sorar (public keyler haric).
+
+    nano otochia-plotter.cfg
 
 Bir kez başlatmanız yeterli daha sonrasında pcount kadar kendi yazacaktır bu sırada disk depeolamanızı dikkat edin.
 
