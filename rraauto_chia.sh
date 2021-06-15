@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Author: @ehmzkan by hpool plotter tool v1.1.0" 
+echo "Author: @ehmzkan by auto inplotter tool v1.1.0" 
 
 #sudo sudo apt install rpm -y &&
 #sudo apt-get install openssh-client -y &&  
