@@ -52,12 +52,17 @@ start_config(){
 
 	if [ -z "$auto" ];
 	  then
-		echo -n "Disk yolu($disk): ";
-		read diskk
-		if ! [ -z "$diskk" ]; then
-			disk=$diskk
+		echo -n "Disk yolu($tempc): ";
+		read tempcc
+		if ! [ -z "$tempcc" ]; then
+			tempc=$tempcc
 		fi
-		
+		echo -n "Disk yolu($plots): ";
+		read plotss
+		if ! [ -z "$plotss" ]; then
+			plots=$plotss
+		fi
+			
 		echo -n "Cpu($cpu): ";
 		read cpuu
 		if ! [ -z "$cpuu" ]; then
