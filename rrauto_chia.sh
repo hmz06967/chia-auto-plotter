@@ -14,8 +14,7 @@ if ! [ -f $cfg_fpath ]; then
 fi
 
 source $cfg_fpath
-Plot="${disk}/plots/"
-Temp="${disk}/tempc/" 
+
 	
 # [FUNCTION]
 	# install
