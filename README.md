@@ -22,11 +22,15 @@ Bir kez başlatmanız yeterli daha sonrasında pcount kadar kendi yazacaktır bu
     Ppk="" # pool public key
     cpu=4
     ram=3995
-    disk="/disk" # temp ve plot klasörü ana yolu 
+    # disk="/disk" # temp ve plot klasörü ana yolu 
     pcount=10 # sıralı plot sayısı 
     plot_file="/root/plot.log"
     up_file="/root/upload.log"
     plotter=1  #1: madmax-chia-plotter, 0: hpool-chia-plotter
+    # auto=1
+    tempc="/disk/tempc"
+    plots="/disk/plots"
+    
 
 
 # Install 
