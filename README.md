@@ -24,14 +24,15 @@ Bir kez başlatmanız yeterli daha sonrasında pcount kadar kendi yazacaktır bu
     ram=3995
     disk="/disk" # temp ve plot klasörü ana yolu 
     pcount=10 # sıralı plot sayısı 
-    plot_file="/root/plot.log"
-    up_file="/root/upload.log"
     plotter=1  #1: madmax-chia-plotter, 0: hpool-chia-plotter
+
+    # log and path
+    madmax=/root/madmax
+    plot_file=$madmax/chia-plotter/build/plot.log
+    up_file="/root/upload.log"
+
     Plot=$disk/plots/
     Temp=$disk/tempc/
-    # auto=1
-
-    
 
 
 # Install 
