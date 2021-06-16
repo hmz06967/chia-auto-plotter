@@ -28,8 +28,8 @@ Bir kez başlatmanız yeterli daha sonrasında pcount kadar kendi yazacaktır bu
     up_file="/root/upload.log"
     plotter=1  #1: madmax-chia-plotter, 0: hpool-chia-plotter
     # auto=1
-    tempc="/disk/tempc"
-    plots="/disk/plots"
+    Temp="/disk/tempc"
+    Plot="/disk/plots"
     
 
 
