@@ -41,4 +41,4 @@ Aşağıdan linux ubuntu için yükleme adımlarını gerçekleştirin.
 
 # Lİnux/Ubuntu
 
-    git clone https://github.com/hmz06967/chia-auto-plotter/ | bash chia-auto-plotter/rrauto_chia.sh
+    git clone https://github.com/hmz06967/chia-auto-plotter/ && bash chia-auto-plotter/rrauto_chia.sh
