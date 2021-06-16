@@ -27,7 +27,7 @@ Bir kez başlatmanız yeterli daha sonrasında pcount kadar kendi yazacaktır bu
     plotter=1  #1: madmax-chia-plotter, 0: hpool-chia-plotter
 
     # log and path
-    madmax=/root/madmax
+    madmax=/root/madmax # madmax kurulacağı yer
     plot_file=$madmax/chia-plotter/build/plot.log
     up_file="/root/upload.log"
 
