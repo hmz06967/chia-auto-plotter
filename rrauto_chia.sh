@@ -35,7 +35,7 @@ hpool_plotter_install(){
 }
 
 madmax_plotter_install(){
-	mkdir /root/madmax &&
+	mkdir $madmax &&
 	cd madmax &&
 
 	sudo apt install -y libsodium-dev cmake g++ git &&
