@@ -27,9 +27,10 @@ Bir kez başlatmanız yeterli daha sonrasında pcount kadar kendi yazacaktır bu
     plot_file="/root/plot.log"
     up_file="/root/upload.log"
     plotter=1  #1: madmax-chia-plotter, 0: hpool-chia-plotter
+    Plot=$disk/plots/
+    Temp=$disk/tempc/
     # auto=1
-    Temp="/disk/tempc"
-    Plot="/disk/plots"
+
     
 
 
