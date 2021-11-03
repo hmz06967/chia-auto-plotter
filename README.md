@@ -2,6 +2,10 @@
 chia madmax - hpool-plotter sıfırdan kurulum ve otomatik plotlama yapar.
 açtığınız makineye config dosyasını ayarlayarak başlatın paket yoksa yükler ve devam eder.
 
+## detail
+
+    https://blog.hamzaozkan.com.tr/2021/07/yesil-enerjiyi-destekleyen-kripto-para.html
+    
 # Auto
 
 Plotlama yaparken Ctrl-C ile çıkış yapın ilerlemeyi göremek için tail -f $plot_file
